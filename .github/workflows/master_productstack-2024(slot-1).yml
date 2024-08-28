@@ -59,4 +59,4 @@ jobs:
           app-name: 'productstack-2024'
           slot-name: 'slot-1'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA7670BB6BF64F998CDEF9510841E7D1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DB2745A468EB44A990600B524AE56DC3 }}
